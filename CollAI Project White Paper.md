@@ -1,52 +1,52 @@
-&#x20;CollAI Project White Paper
+CollAI Project White Paper
 
 
 
-\*\*Version\*\*: v2.0
+**Version**: v2.0
 
-\*\*Date\*\*: June 23, 2026
-
-
-
-\---
+**Date**: June 23, 2026
 
 
 
-\## Table of Contents
+---
 
 
 
-1\. \[Project Overview](#1-project-overview)
-
-2\. \[Project Origin and Development](#2-project-origin-and-development)
-
-3\. \[Problems and Market Opportunities](#3-problems-and-market-opportunities)
-
-4\. \[Products and Technologies](#4-products-and-technologies)
-
-5\. \[Competitive Analysis](#5-competitive-analysis)
-
-6\. \[Current Progress](#6-current-progress)
-
-7\. \[Technical Challenges and Improvement Directions](#7-technical-challenges-and-improvement-directions)
-
-8\. \[Appendix: In-depth Technical Explanation](#8-appendix-in-depth-technical-explanation)
+## Table of Contents
 
 
 
-\---
+1. [Project Overview](#1-project-overview)
+
+2. [Project Origin and Development](#2-project-origin-and-development)
+
+3. [Problems and Market Opportunities](#3-problems-and-market-opportunities)
+
+4. [Products and Technologies](#4-products-and-technologies)
+
+5. [Competitive Analysis](#5-competitive-analysis)
+
+6. [Current Progress](#6-current-progress)
+
+7. [Technical Challenges and Improvement Directions](#7-technical-challenges-and-improvement-directions)
+
+8. [Appendix: In-depth Technical Explanation](#8-appendix-in-depth-technical-explanation)
 
 
 
-\## 1. Project Overview
+---
 
 
 
-CollAI is an \*\*AI agent infrastructure with autonomous cognitive architecture\*\* — not just another wrapped AI programming tool, but an AI operating system with independent cognitive cycles, self-evolution capabilities, and long-term memory.
+## 1. Project Overview
 
 
 
-The core bottleneck facing the current AI industry is: \*\*All AI products remain at the level of "conversational interaction" and lack true autonomy and continuous learning capabilities\*\*. Cursor, Copilot, and Claude Code are essentially "super auto-completion" tools that start from scratch in each conversation, with no cognitive accumulation or self-evolution.
+CollAI is an **AI agent infrastructure with autonomous cognitive architecture** — not just another wrapped AI programming tool, but an AI operating system with independent cognitive cycles, self-evolution capabilities, and long-term memory.
+
+
+
+The core bottleneck facing the current AI industry is: **All AI products remain at the level of "conversational interaction" and lack true autonomy and continuous learning capabilities**. Cursor, Copilot, and Claude Code are essentially "super auto-completion" tools that start from scratch in each conversation, with no cognitive accumulation or self-evolution.
 
 
 
@@ -58,17 +58,17 @@ CollAI fundamentally solves this problem. Core differences:
 
 |-----------|----------------------------|--------|
 
-| \*\*Interaction Mode\*\* | Passive response (one question, one answer) | \*\*Autonomous cognitive cycle\*\* with continuous thinking |
+| **Interaction Mode** | Passive response (one question, one answer) | **Autonomous cognitive cycle** with continuous thinking |
 
-| \*\*Memory\*\* | Context window (limited) | \*\*3-layer memory architecture\*\* (169,788 persistent memories) |
+| **Memory** | Context window (limited) | **3-layer memory architecture** (169,788 persistent memories) |
 
-| \*\*Learning\*\* | No learning capability | \*\*Autonomous knowledge acquisition\*\* + multi-stage learning pipeline |
+| **Learning** | No learning capability | **Autonomous knowledge acquisition** + multi-stage learning pipeline |
 
-| \*\*Evolution\*\* | No evolution capability | \*\*Self-code modification\*\* + genetic algorithm-based evolution |
+| **Evolution** | No evolution capability | **Self-code modification** + genetic algorithm-based evolution |
 
-| \*\*Cognitive Architecture\*\* | None | \*\*7-stage cognitive cycle + simulation of 9 neurotransmitters\*\* |
+| **Cognitive Architecture** | None | **7-stage cognitive cycle + simulation of 9 neurotransmitters** |
 
-| \*\*Deployment\*\* | Cloud/SaaS | \*\*Local-first\*\*, with optional privatized deployment |
+| **Deployment** | Cloud/SaaS | **Local-first**, with optional privatized deployment |
 
 
 
@@ -76,15 +76,15 @@ CollAI is not just another AI IDE plugin — it is an OS-layer infrastructure fo
 
 
 
-\---
+---
 
 
 
-\## 2. Project Origin and Development
+## 2. Project Origin and Development
 
 
 
-\### 2.1 Origin
+### 2.1 Origin
 
 
 
@@ -94,23 +94,23 @@ CollAI originated in early 2025 as a local-first AI programming assistant. Howev
 
 Current CollAI features:
 
-\- \*\*1 complete cognitive architecture\*\* — 7-stage cognitive cycle + consciousness model + motivation engine
+- **1 complete cognitive architecture** — 7-stage cognitive cycle + consciousness model + motivation engine
 
-\- \*\*1 long-term memory system\*\* — 3-layer memory architecture with 169,788 persistent memories
+- **1 long-term memory system** — 3-layer memory architecture with 169,788 persistent memories
 
-\- \*\*1 self-evolution engine\*\* — capable of self-modifying code and self-optimization
+- **1 self-evolution engine** — capable of self-modifying code and self-optimization
 
-\- \*\*1 distributed entity system\*\* — Prime Brain → Avatar, supporting splitting and collaboration
+- **1 distributed entity system** — Prime Brain → Avatar, supporting splitting and collaboration
 
-\- \*\*1 sandbox civilization simulator\*\* — a simulation environment for AI autonomous training
+- **1 sandbox civilization simulator** — a simulation environment for AI autonomous training
 
-\- \*\*1 quantitative trading system\*\* — connected to A-share market with live trading capabilities
+- **1 quantitative trading system** — connected to A-share market with live trading capabilities
 
-\- \*\*1 complete development frontend\*\* — React + TypeScript with 50+ functional panels
+- **1 complete development frontend** — React + TypeScript with 50+ functional panels
 
 
 
-\### 2.2 Project Status
+### 2.2 Project Status
 
 
 
@@ -118,9 +118,9 @@ Current CollAI features:
 
 |--------|------|
 
-| Code Scale | \~3,400 Python files + \~200 TypeScript files |
+| Code Scale | ~3,400 Python files + ~200 TypeScript files |
 
-| API Endpoints | \~600+ |
+| API Endpoints | ~600+ |
 
 | Test Cases | 5,381 |
 
@@ -136,7 +136,7 @@ Current CollAI features:
 
 
 
-\### 2.3 Core Design Philosophy
+### 2.3 Core Design Philosophy
 
 
 
@@ -144,31 +144,31 @@ CollAI is built around several core principles:
 
 
 
-\*\*Local-first\*\* — All cognitive processing is completed locally, independent of cloud services. This not only addresses enterprise data security and compliance issues but also is a prerequisite for AI autonomy — an AI that must report to the cloud is not truly autonomous.
+**Local-first** — All cognitive processing is completed locally, independent of cloud services. This not only addresses enterprise data security and compliance issues but also is a prerequisite for AI autonomy — an AI that must report to the cloud is not truly autonomous.
 
 
 
-\*\*Cognitive Architecture > Model Capability\*\* — CollAI does not pursue the strongest LLM; instead, it leverages cognitive architecture (memory, cycles, learning, evolution) to enable weaker models to outperform single-inference capabilities during continuous operation. The depth of architecture is more important than model parameters.
+**Cognitive Architecture > Model Capability** — CollAI does not pursue the strongest LLM; instead, it leverages cognitive architecture (memory, cycles, learning, evolution) to enable weaker models to outperform single-inference capabilities during continuous operation. The depth of architecture is more important than model parameters.
 
 
 
-\*\*Continuous Operation > Single Conversation\*\* — Traditional AI tools are "use-and-leave", while CollAI is a continuously running process. This continuity enables accumulation — memory, learning, and evolution all require a time dimension.
+**Continuous Operation > Single Conversation** — Traditional AI tools are "use-and-leave", while CollAI is a continuously running process. This continuity enables accumulation — memory, learning, and evolution all require a time dimension.
 
 
 
-\---
+---
 
 
 
-\## 3. Problems and Market Opportunities
+## 3. Problems and Market Opportunities
 
 
 
-\### 3.1 Core Problem: AI Tools Lack a True "Cognitive Layer"
+### 3.1 Core Problem: AI Tools Lack a True "Cognitive Layer"
 
 
 
-There are over 50 AI programming assistants on the market, all sharing a fatal flaw: \*\*no memory, no learning, no autonomy\*\*.
+There are over 50 AI programming assistants on the market, all sharing a fatal flaw: **no memory, no learning, no autonomy**.
 
 
 
@@ -176,19 +176,19 @@ There are over 50 AI programming assistants on the market, all sharing a fatal f
 
 |---------|---------------|-------------|
 
-| \*\*No Persistent Memory\*\* | Starts from scratch in each conversation | Repeated context explanations, low efficiency |
+| **No Persistent Memory** | Starts from scratch in each conversation | Repeated context explanations, low efficiency |
 
-| \*\*No Autonomous Cycle\*\* | Only responds to user queries | Unable to proactively identify and solve problems |
+| **No Autonomous Cycle** | Only responds to user queries | Unable to proactively identify and solve problems |
 
-| \*\*No Learning Capability\*\* | Repeats past mistakes | Zero progress and accumulation |
+| **No Learning Capability** | Repeats past mistakes | Zero progress and accumulation |
 
-| \*\*No Evolution Capability\*\* | Code cannot self-optimize | High manual maintenance costs, lack of sustainability |
+| **No Evolution Capability** | Code cannot self-optimize | High manual maintenance costs, lack of sustainability |
 
-| \*\*Cloud Dependence\*\* | Code must be uploaded to third-party servers | Enterprises hesitate to adopt (data security risks) |
+| **Cloud Dependence** | Code must be uploaded to third-party servers | Enterprises hesitate to adopt (data security risks) |
 
 
 
-\### 3.2 Market Timing
+### 3.2 Market Timing
 
 
 
@@ -196,55 +196,55 @@ Three trends converge here:
 
 
 
-\*\*Trend 1: Explosive Growth of AI Programming Tools\*\*
+**Trend 1: Explosive Growth of AI Programming Tools**
 
-\- GitHub Copilot has over 3 million paid users
+- GitHub Copilot has over 3 million paid users
 
-\- Cursor's valuation exceeds RMB 20 billion
+- Cursor's valuation exceeds RMB 20 billion
 
-\- Microsoft/Google/Amazon are heavily investing in AI programming
+- Microsoft/Google/Amazon are heavily investing in AI programming
 
-\- China's AI programming market is shifting from "availability" to "quality"
-
-
-
-\*\*Trend 2: Paradigm Shift from "Auto-completion" to "Autonomous Agents"\*\*
-
-\- Devin (Cognition AI) proves the feasibility of "AI engineers"
-
-\- Anthropic's computer use demonstrates AI's ability to operate computers
-
-\- The market is realizing: \*\*The next leap is not better auto-completion, but autonomous agents\*\*
+- China's AI programming market is shifting from "availability" to "quality"
 
 
 
-\*\*Trend 3: Localization/Privatization Demand in the Chinese Market\*\*
+**Trend 2: Paradigm Shift from "Auto-completion" to "Autonomous Agents"**
 
-\- Compliance requirements for Chinese enterprise data to remain within borders
+- Devin (Cognition AI) proves the feasibility of "AI engineers"
 
-\- Localized AI needs of state-owned enterprises and military units
+- Anthropic's computer use demonstrates AI's ability to operate computers
 
-\- Cursor/Copilot have almost zero team support in China
-
-
-
-\---
+- The market is realizing: **The next leap is not better auto-completion, but autonomous agents**
 
 
 
-\## 4. Products and Technologies
+**Trend 3: Localization/Privatization Demand in the Chinese Market**
+
+- Compliance requirements for Chinese enterprise data to remain within borders
+
+- Localized AI needs of state-owned enterprises and military units
+
+- Cursor/Copilot have almost zero team support in China
 
 
 
-\### 4.1 Product Positioning
+---
 
 
 
-> \*\*CollAI is an AI agent engine with autonomous cognitive capabilities\*\* — it does not just answer questions, but thinks, learns, remembers, and evolves continuously like human developers.
+## 4. Products and Technologies
 
 
 
-\### 4.2 Core Technology Stack
+### 4.1 Product Positioning
+
+
+
+> **CollAI is an AI agent engine with autonomous cognitive capabilities** — it does not just answer questions, but thinks, learns, remembers, and evolves continuously like human developers.
+
+
+
+### 4.2 Core Technology Stack
 
 
 
@@ -258,7 +258,7 @@ Three trends converge here:
 
 ├─────────────────────────────────────────────────┤
 
-│               API Layer (\~600 Endpoints)         │
+│               API Layer (~600 Endpoints)         │
 
 ├─────────┬─────────┬──────────┬──────────────────┤
 
@@ -278,7 +278,7 @@ Three trends converge here:
 
 ├─────────────────────────────────────────────────┤
 
-│              Data Layer (\~25 SQLite DBs)         │
+│              Data Layer (~25 SQLite DBs)         │
 
 │    169,788 memory entries | 5,189 tool call records │
 
@@ -294,11 +294,11 @@ Three trends converge here:
 
 
 
-\### 4.3 Core Moats
+### 4.3 Core Moats
 
 
 
-\*\*Moat 1: Autonomous Cognitive Cycle\*\*
+**Moat 1: Autonomous Cognitive Cycle**
 
 
 
@@ -316,19 +316,19 @@ RECALL → THINK → PLAN → EXECUTE → ANALYZE → REFLECT → LEARN
 
 Each stage is an independent asynchronous module with state passed via CycleContext. It includes:
 
-\- \*\*DriveMechanism\*\*: Adaptive exploration/exploitation balance based on uncertainty-driven + goal-driven behavior
+- **DriveMechanism**: Adaptive exploration/exploitation balance based on uncertainty-driven + goal-driven behavior
 
-\- \*\*Simulation of 9 neurotransmitters\*\*: Dynamic regulation of cognitive behavior via dopamine/serotonin/cortisol etc.
+- **Simulation of 9 neurotransmitters**: Dynamic regulation of cognitive behavior via dopamine/serotonin/cortisol etc.
 
-\- \*\*Consciousness Model\*\*: 7 levels of consciousness (NONE→INTEGRATED), 6-dimensional Bayesian self-cognition update
-
-
-
-\*\*This is not a wrapper — it is a cognitive architecture built from scratch.\*\*
+- **Consciousness Model**: 7 levels of consciousness (NONE→INTEGRATED), 6-dimensional Bayesian self-cognition update
 
 
 
-\*\*Moat 2: Long-term Memory System\*\*
+**This is not a wrapper — it is a cognitive architecture built from scratch.**
+
+
+
+**Moat 2: Long-term Memory System**
 
 
 
@@ -342,31 +342,31 @@ Working Memory (12,848) → Short-term Memory (156,110) → Long-term Memory (83
 
 3-layer memory architecture based on SQLite+FTS5+SentenceTransformer:
 
-\- 90-day half-life exponential decay forgetting curve
+- 90-day half-life exponential decay forgetting curve
 
-\- Dual retrieval via FTS5 full-text search + vector embedding
+- Dual retrieval via FTS5 full-text search + vector embedding
 
-\- Automatic memory consolidation (working→short-term→long-term)
+- Automatic memory consolidation (working→short-term→long-term)
 
-\- 169,788 entries of real operational data across 18 months
+- 169,788 entries of real operational data across 18 months
 
 
 
-\*\*Moat 3: Self-Evolution Capability\*\*
+**Moat 3: Self-Evolution Capability**
 
 
 
 CollAI can modify its own code:
 
-\- Complete cycle: introspect→analyze gaps→plan→execute→learn→reflect→test→document
+- Complete cycle: introspect→analyze gaps→plan→execute→learn→reflect→test→document
 
-\- Triple safeguards: AST validation + sandbox testing + snapshot rollback
+- Triple safeguards: AST validation + sandbox testing + snapshot rollback
 
-\- Operational data from 5,059 evolution cycles
+- Operational data from 5,059 evolution cycles
 
 
 
-\*\*Moat 4: 5-Level Provider Fallback Chain\*\*
+**Moat 4: 5-Level Provider Fallback Chain**
 
 
 
@@ -382,7 +382,7 @@ Independent of single LLM, with true elastic inference capabilities.
 
 
 
-\### 4.4 Capabilities Unavailable in Competitors
+### 4.4 Capabilities Unavailable in Competitors
 
 
 
@@ -404,7 +404,7 @@ Independent of single LLM, with true elastic inference capabilities.
 
 
 
-\### 4.5 Technical Debt
+### 4.5 Technical Debt
 
 
 
@@ -412,13 +412,13 @@ Independent of single LLM, with true elastic inference capabilities.
 
 |---------|----------|----------|
 
-| baby\_cognitive\_service.py (8,788 LOC single file) | Critical | 2 months of refactoring |
+| baby_cognitive_service.py (8,788 LOC single file) | Critical | 2 months of refactoring |
 
 | 253 route files mostly unreviewed manually | Critical | 3 months of audit |
 
 | Inconsistent API paths (awakening/awakening2) | Medium | 2 weeks of unification |
 
-| Plaintext passwords (broker\_client.py) | Security | 1 day of fix |
+| Plaintext passwords (broker_client.py) | Security | 1 day of fix |
 
 | Numerous empty database tables and panels | Medium | Continuous cleanup |
 
@@ -428,15 +428,15 @@ Independent of single LLM, with true elastic inference capabilities.
 
 
 
-\---
+---
 
 
 
-\## 5. Competitive Analysis
+## 5. Competitive Analysis
 
 
 
-\### 5.1 Competitor Matrix
+### 5.1 Competitor Matrix
 
 
 
@@ -444,127 +444,124 @@ Independent of single LLM, with true elastic inference capabilities.
 
 |------------|-------------------|------------------------|
 
-| \*\*Cursor\*\* | AI IDE + auto-completion | No autonomous cycle, no memory, no localization |
+| **Cursor** | AI IDE + auto-completion | No autonomous cycle, no memory, no localization |
 
-| \*\*GitHub Copilot\*\* | Auto-completion | Purely auxiliary, no autonomy |
+| **GitHub Copilot** | Auto-completion | Purely auxiliary, no autonomy |
 
-| \*\*Windsurf\*\* | AI Editor | Similar to Cursor, no memory |
+| **Windsurf** | AI Editor | Similar to Cursor, no memory |
 
-| \*\*Devin\*\* | AI Software Engineer | Cloud-only, no localization, no self-evolution |
+| **Devin** | AI Software Engineer | Cloud-only, no localization, no self-evolution |
 
-| \*\*Claude Code\*\* | AI Terminal Agent | No persistent memory, no autonomous cycle |
+| **Claude Code** | AI Terminal Agent | No persistent memory, no autonomous cycle |
 
-| \*\*Bolt.new\*\* | Natural Language → Application | Generation-only, no maintenance |
+| **Bolt.new** | Natural Language → Application | Generation-only, no maintenance |
 
-| \*\*Tongyi Lingma\*\* | Alibaba-backed AI Programming | Cloud-dependent, no cognitive cycle |
+| **Tongyi Lingma** | Alibaba-backed AI Programming | Cloud-dependent, no cognitive cycle |
 
 
 
-\### 5.2 Window of Advantage for CollAI
+### 5.2 Window of Advantage for CollAI
 
 
 
 CollAI has a 12-18 month technical window:
 
-\- The architecture of Cursor/Copilot makes it impossible to quickly add "persistent memory" and "autonomous cycle" — this is an architectural difference, not a functional one
+- The architecture of Cursor/Copilot makes it impossible to quickly add "persistent memory" and "autonomous cycle" — this is an architectural difference, not a functional one
 
-\- Devin focuses on cloud services and cannot meet the privatization needs of Chinese enterprises
+- Devin focuses on cloud services and cannot meet the privatization needs of Chinese enterprises
 
-\- Claude Code is a demo product of Anthropic, not a core business
-
-
-
-\### 5.3 Competitive Risks
+- Claude Code is a demo product of Anthropic, not a core business
 
 
 
-\- If OpenAI/Anthropic/Microsoft decide to build localized autonomous agents, CollAI's resources cannot compete
-
-\- If Cursor acquires or builds its own cognitive architecture, it can directly leverage its user base
-
-\- Chinese competitors (Tongyi Lingma etc.) have ecological resources from Alibaba/Baidu
+### 5.3 Competitive Risks
 
 
+- If OpenAI/Anthropic/Microsoft decide to build localized autonomous agents, CollAI's resources cannot compete
 
-\---
+- If Cursor acquires or builds its own cognitive architecture, it can directly leverage its user base
 
-
-
-\## 6. Current Progress
+- Chinese competitors (Tongyi Lingma etc.) have ecological resources from Alibaba/Baidu
 
 
 
-\### 6.1 Technologies Completed
+---
 
 
 
-\- \[x] Autonomous cognitive cycle (full implementation of 7 stages + real operational data)
-
-\- \[x] 3-layer long-term memory system (169,788 entries + FTS5 + vector retrieval)
-
-\- \[x] Self-evolution engine (5,059 evolution cycles)
-
-\- \[x] 5 LLM Provider elastic routing (8-level fallback chain)
-
-\- \[x] 55+ tool system (12 categories)
-
-\- \[x] 60+ API route modules (600+ endpoints)
-
-\- \[x] Complete frontend (React + TypeScript, 50+ panels)
-
-\- \[x] ReAct Agent core (1,097 LOC, including validation/auto-fix/circuit breaker)
-
-\- \[x] 5,381 automated tests
-
-\- \[x] Three-province six-division avatar governance system (1,912 LOC)
-
-\- \[x] Defense pipeline + hallucination interceptor
-
-\- \[x] Consciousness model (7 levels + 6-dimensional Bayesian update)
-
-\- \[x] Distributed entity system (Prime Brain → Avatar)
-
-\- \[x] Consciousness upload/self-replication/civilization simulation (experimental features)
+## 6. Current Progress
 
 
 
-\### 6.2 Pending Completion
+### 6.1 Technologies Completed
+
+
+- [x] Autonomous cognitive cycle (full implementation of 7 stages + real operational data)
+
+- [x] 3-layer long-term memory system (169,788 entries + FTS5 + vector retrieval)
+
+- [x] Self-evolution engine (5,059 evolution cycles)
+
+- [x] 5 LLM Provider elastic routing (8-level fallback chain)
+
+- [x] 55+ tool system (12 categories)
+
+- [x] 60+ API route modules (600+ endpoints)
+
+- [x] Complete frontend (React + TypeScript, 50+ panels)
+
+- [x] ReAct Agent core (1,097 LOC, including validation/auto-fix/circuit breaker)
+
+- [x] 5,381 automated tests
+
+- [x] Three-province six-division avatar governance system (1,912 LOC)
+
+- [x] Defense pipeline + hallucination interceptor
+
+- [x] Consciousness model (7 levels + 6-dimensional Bayesian update)
+
+- [x] Distributed entity system (Prime Brain → Avatar)
+
+- [x] Consciousness upload/self-replication/civilization simulation (experimental features)
 
 
 
-\- \[ ] Productization design (ground-up UI/UX polishing)
-
-\- \[ ] Cross-platform support (macOS/Linux untested currently)
-
-\- \[ ] Installation experience (manual configuration required currently)
-
-\- \[ ] Documentation and tutorial system
-
-\- \[ ] Enterprise-level admin backend
-
-\- \[ ] Technical debt cleanup
-
-\- \[ ] API standardization and version management
-
-\- \[ ] Security audit and compliance certification
-
-\- \[ ] Community operation
+### 6.2 Pending Completion
 
 
+- [ ] Productization design (ground-up UI/UX polishing)
 
-\---
+- [ ] Cross-platform support (macOS/Linux untested currently)
 
+- [ ] Installation experience (manual configuration required currently)
 
+- [ ] Documentation and tutorial system
 
-\## 7. Technical Challenges and Improvement Directions
+- [ ] Enterprise-level admin backend
+
+- [ ] Technical debt cleanup
+
+- [ ] API standardization and version management
+
+- [ ] Security audit and compliance certification
+
+- [ ] Community operation
 
 
 
-\### 7.1 Core Current Challenges
+---
 
 
 
-\*\*Ambiguous Identity Positioning\*\*
+## 7. Technical Challenges and Improvement Directions
+
+
+
+### 7.1 Core Current Challenges
+
+
+
+**Ambiguous Identity Positioning**
 
 
 
@@ -572,15 +569,15 @@ CollAI lacks a clear positioning between "AI programming tool" and "digital life
 
 
 
-\*\*Single-person Development Bottleneck\*\*
+**Single-person Development Bottleneck**
 
 
 
-A codebase of \~3,400 files built and maintained by one person has reached the limit of individual capacity. The core system is solid, but peripheral code quality is uneven, with a large amount of AI-generated code unreviewed in depth. The project requires more developers to enter the productization phase.
+A codebase of ~3,400 files built and maintained by one person has reached the limit of individual capacity. The core system is solid, but peripheral code quality is uneven, with a large amount of AI-generated code unreviewed in depth. The project requires more developers to enter the productization phase.
 
 
 
-\*\*Insufficient Productization\*\*
+**Insufficient Productization**
 
 
 
@@ -588,21 +585,21 @@ While featuring numerous functions (50+ panels), there has been no systematic pr
 
 
 
-\*\*Accumulated Technical Debt\*\*
+**Accumulated Technical Debt**
 
-\- `baby\_cognitive\_service.py`: 8,788 LOC single file in urgent need of refactoring and splitting
+- `baby_cognitive_service.py`: 8,788 LOC single file in urgent need of refactoring and splitting
 
-\- Most of the 253 route files are unreviewed manually
+- Most of the 253 route files are unreviewed manually
 
-\- Inconsistent API path naming (e.g., `awakening`/`awakening2`)
+- Inconsistent API path naming (e.g., `awakening`/`awakening2`)
 
-\- Plaintext credentials in some configuration files
+- Plaintext credentials in some configuration files
 
-\- Test coverage threshold only 30%, with 44 subdirectories having zero test coverage
+- Test coverage threshold only 30%, with 44 subdirectories having zero test coverage
 
 
 
-\### 7.2 Improvement Roadmap
+### 7.2 Improvement Roadmap
 
 
 
@@ -626,15 +623,15 @@ While featuring numerous functions (50+ panels), there has been no systematic pr
 
 
 
-\---
+---
 
 
 
-\## 8. Appendix: In-depth Technical Explanation
+## 8. Appendix: In-depth Technical Explanation
 
 
 
-\### 8.1 Detailed Cognitive Cycle
+### 8.1 Detailed Cognitive Cycle
 
 
 
@@ -658,7 +655,7 @@ LEARN(GROW)→ Quality control + hallucination interception + permanent storage
 
 
 
-\### 8.2 Memory System Architecture
+### 8.2 Memory System Architecture
 
 
 
@@ -666,29 +663,29 @@ LEARN(GROW)→ Quality control + hallucination interception + permanent storage
 
 User Input
 
-&#x20;   │
+│
 
-&#x20;   ▼
+▼
 
 Intent Router ──TEMPORAL → Timeline Query
 
-&#x20;   │              ENTITY → Entity Query
+│              ENTITY → Entity Query
 
-&#x20;   │              SEMANTIC → Semantic Search
+│              SEMANTIC → Semantic Search
 
-&#x20;   ▼
+▼
 
-3-layer Memory Hierarchy ── working (12,848) → short\_term (156,110) → long\_term (830)
+3-layer Memory Hierarchy ── working (12,848) → short_term (156,110) → long_term (830)
 
-&#x20;   │
+│
 
-&#x20;   ▼
+▼
 
 Memory Consolidation ── Forgetting Curve (90-day half-life) → Automatic downgrade/archiving
 
-&#x20;   │
+│
 
-&#x20;   ▼
+▼
 
 Vector Index (SentenceTransformer) + FTS5 Full-text Search
 
@@ -696,7 +693,7 @@ Vector Index (SentenceTransformer) + FTS5 Full-text Search
 
 
 
-\### 8.3 Self-Evolution Engine
+### 8.3 Self-Evolution Engine
 
 
 
@@ -704,31 +701,31 @@ Vector Index (SentenceTransformer) + FTS5 Full-text Search
 
 introspect → Code analysis
 
-&#x20;   │
+│
 
 analyze gaps → Identify improvement points
 
-&#x20;   │
+│
 
 build plan → Formulate modification plan
 
-&#x20;   │
+│
 
 execute plan → AST validation + sandbox execution
 
-&#x20;   │
+│
 
 learn → Learn from results
 
-&#x20;   │
+│
 
 reflect → Evaluate effectiveness
 
-&#x20;   │
+│
 
 generate self-tests → Generate test cases
 
-&#x20;   │
+│
 
 self-document → Update documentation
 
@@ -736,7 +733,7 @@ self-document → Update documentation
 
 
 
-\### 8.4 Nervous System: Neurotransmitter System
+### 8.4 Nervous System: Neurotransmitter System
 
 
 
@@ -768,7 +765,7 @@ CollAI implements dynamic simulation of 9 neurotransmitters to regulate cognitiv
 
 
 
-\### 8.5 Deployment Architecture
+### 8.5 Deployment Architecture
 
 
 
@@ -776,49 +773,44 @@ CollAI implements dynamic simulation of 9 neurotransmitters to regulate cognitiv
 
 User's Computer
 
-&#x20;   │
+│
 
-&#x20;   ├── Electron Frontend (React + TypeScript)
+├── Electron Frontend (React + TypeScript)
 
-&#x20;   │
+│
 
-&#x20;   ├── Parent Process (run\_forever.py) Port 8770
+├── Parent Process (run_forever.py) Port 8770
 
-&#x20;   │   ├── FastAPI Service Layer
+│   ├── FastAPI Service Layer
 
-&#x20;   │   ├── Cognitive Architecture Layer
+│   ├── Cognitive Architecture Layer
 
-&#x20;   │   ├── Memory System Layer
+│   ├── Memory System Layer
 
-&#x20;   │   ├── Tool System Layer
+│   ├── Tool System Layer
 
-&#x20;   │   ├── Provider Routing Layer (LLM-agnostic)
+│   ├── Provider Routing Layer (LLM-agnostic)
 
-&#x20;   │   └── Self-Evolution Engine
+│   └── Self-Evolution Engine
 
-&#x20;   │
+│
 
-&#x20;   ├── Child Process (run\_child.py) Port 8769
+├── Child Process (run_child.py) Port 8769
 
-&#x20;   │   └── Independent Cognitive Cycle
+│   └── Independent Cognitive Cycle
 
-&#x20;   │
+│
 
-&#x20;   └── (Optional) Quantitative Trading System Port 8753
+└── (Optional) Quantitative Trading System Port 8753
 
-&#x20;       └── Tonghuashun Automation
+    └── Tonghuashun Automation
 
 ```
 
 
 
-\---
+---
 
 
 
-\*This document is based on actual code and data of the CollAI project, with technical data derived from real statistics during project operation.\*
-
-
-
-
-
+*This document is based on actual code and data of the CollAI project, with technical data derived from real statistics during project operation.*
